@@ -71,6 +71,7 @@ gemQualityList["Deadly Ailments Support"] := " 10% increased Damage over Time `n
 gemQualityList["Decay Support"] := " 10% increased Chaos Damage`n (0.5% per 1% Q)"
 gemQualityList["Decoy Totem"] := " 20% increased totem life`n (1% per 1% Q)"
 gemQualityList["Desecrate"] := " 20% increased Cast Speed`n (1% per 1% Q)"
+gemQualityList["Despair"] := " Cursed enemies take 0.5% increased Damage from Damage Over Time effects (1% per 1% Q)"
 gemQualityList["Determination"] := " 20% increased Area of Effect radius`n (1% per 1% Q)"
 gemQualityList["Detonate Dead"] := " 20% increased Cast Speed`n (1% per 1% Q)"
 gemQualityList["Detonate Mines"] := " 5% increased Cast Speed`n (5% per 1% Q)"
